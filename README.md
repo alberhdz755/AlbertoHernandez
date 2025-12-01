@@ -53,8 +53,7 @@ Apasionado por construir cosas, resolver problemas y aprender nuevas tecnología
 ## 📦 Projects
 
 ### 🔹 **Cafetec**
-Un proyecto personal (o escolar) donde apliqué desarrollo web/software.  
-*(Agrega una descripción más larga o un link cuando lo tengas.)*
+Un proyecto escolar donde apliqué desarrollo web para nuestra cafetería. 
 
 ---
 
